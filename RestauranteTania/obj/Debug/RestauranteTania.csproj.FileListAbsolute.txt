@@ -1,0 +1,11 @@
+C:\Users\jrlop\OneDrive\Desktop\Restaurante\RestauranteTania\bin\Debug\RestauranteTania.exe.config
+C:\Users\jrlop\OneDrive\Desktop\Restaurante\RestauranteTania\bin\Debug\RestauranteTania.exe
+C:\Users\jrlop\OneDrive\Desktop\Restaurante\RestauranteTania\bin\Debug\RestauranteTania.pdb
+C:\Users\jrlop\OneDrive\Desktop\Restaurante\RestauranteTania\obj\Debug\RestauranteTania.csproj.AssemblyReference.cache
+C:\Users\jrlop\OneDrive\Desktop\Restaurante\RestauranteTania\obj\Debug\RestauranteTania.Properties.Resources.resources
+C:\Users\jrlop\OneDrive\Desktop\Restaurante\RestauranteTania\obj\Debug\RestauranteTania.VentasView.resources
+C:\Users\jrlop\OneDrive\Desktop\Restaurante\RestauranteTania\obj\Debug\RestauranteTania.csproj.GenerateResource.cache
+C:\Users\jrlop\OneDrive\Desktop\Restaurante\RestauranteTania\obj\Debug\RestauranteTania.csproj.CoreCompileInputs.cache
+C:\Users\jrlop\OneDrive\Desktop\Restaurante\RestauranteTania\obj\Debug\RestauranteTania.exe
+C:\Users\jrlop\OneDrive\Desktop\Restaurante\RestauranteTania\obj\Debug\RestauranteTania.pdb
+C:\Users\jrlop\OneDrive\Desktop\Restaurante\RestauranteTania\obj\Debug\RestauranteTania.exe.config
